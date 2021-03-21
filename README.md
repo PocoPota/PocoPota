@@ -1,4 +1,4 @@
 PocoPotaです！
 
-詳しくは↓のポートフォリオサイトで
+詳しくはポートフォリオサイトで
 https://pocopota.github.io/portfolio/
