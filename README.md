@@ -1,4 +1,4 @@
-PocoPotaです！
+PocoPotaです！Webサイト/サービスを作るデベロッパーです
 
 詳しくはポートフォリオサイトで
 https://pocopota.github.io/
