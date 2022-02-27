@@ -1,6 +1,6 @@
 PocoPotaです！Webサイト/サービスを作るデベロッパーです
 
-使用言語
+使用言語  
 HTML / CSS / JavaScript / Pug / SCSS / TypeScript / PHP
 
 その他詳しくはポートフォリオサイトで
